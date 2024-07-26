@@ -1,4 +1,4 @@
-# Food-Project-Hub
+# Food-Hub-Project
 
 Python Foundations Project for the Post Graduate Program in Artificial Intelligence & Machine Learning: Business Applications (PGP-AIML) by McCombs School of Business at The University of Texas at Austin offered in collaboration with Great Learning.
 
